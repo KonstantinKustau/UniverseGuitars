@@ -1,0 +1,24 @@
+{
+  guitars: [
+    {
+      guitarName: rhythm12
+      guitarCost: 375
+      guitarScore: 1500
+    }
+    {
+      guitarName: rhythm22
+      guitarCost: 1750
+      guitarScore: 7000
+    }
+    {
+      guitarName: rhythm32
+      guitarCost: 4750
+      guitarScore: 19000
+    }
+    {
+      guitarName: rhythm42
+      guitarCost: 8750
+      guitarScore: 35000
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  background: background1.atlas
+  music: "Men Don't Cry.mp3"
+  goal: 260
+  endTimeLevel: 112
+
+  store: {
+    mediator: 0
+    guitar_capo: 0
+    drum_pad: 0
+    cymbals: 0
+  }
+
+  elements: [
+    {
+      element: star
+      position: [ 2, 1]
+      startTime: 0
+      splitTime: 0
+      endTime: 0
+    }
+
+
+
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 0.5
+      splitTime: 1.5
+      endTime: 3
+    }
+    {
+      element: acoustic
+      position: [ 1, 0 ]
+      startTime: 3.5
+      splitTime: 4.5
+      endTime: 6
+    }
+    {
+      element: acoustic
+      position: [ 2, 0 ]
+      startTime: 6.5
+      splitTime: 7.5
+      endTime: 9
+    }
+    {
+      element: acoustic
+      position: [ 0, 1 ]
+      startTime: 9.5
+      splitTime: 10.5
+      endTime: 12
+    }
+
+
+
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 36.5
+      splitTime: 37.5
+      endTime: 39.5
+    }
+    {
+      element: acoustic
+      position: [ 1, 2 ]
+      startTime: 39
+      splitTime: 40.5
+      endTime: 42.5
+    }
+    {
+      element: acoustic
+      position: [ 3, 2 ]
+      startTime: 42
+      splitTime: 43.5
+      endTime: 45.5
+    }
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 46
+      splitTime: 46.5
+      endTime: 47
+    }
+    {
+      element: acoustic
+      position: [ 2, 0 ]
+      startTime: 46.5
+      splitTime: 47
+      endTime: 48.5
+    }
+
+
+
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 48.5
+      splitTime: 49.5
+      endTime: 51.5
+    }
+    {
+      element: acoustic
+      position: [ 1, 2 ]
+      startTime: 51
+      splitTime: 52.5
+      endTime: 54.5
+    }
+    {
+      element: acoustic
+      position: [ 3, 2 ]
+      startTime: 54
+      splitTime: 55.5
+      endTime: 57.5
+    }
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 58
+      splitTime: 58.5
+      endTime: 59
+    }
+    {
+      element: acoustic
+      position: [ 2, 0 ]
+      startTime: 58.5
+      splitTime: 59
+      endTime: 60.5
+    }
+
+
+
+    {
+      element: acoustic
+      position: [ 1, 2 ]
+      startTime: 60.5
+      splitTime: 61
+      endTime: 62.2
+    }
+    {
+      element: acoustic
+      position: [ 0, 0 ]
+      startTime: 61.5
+      splitTime: 62
+      endTime: 64
+    }
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 64.5
+      splitTime: 65
+      endTime: 67.5
+    }
+    {
+      element: acoustic
+      position: [ 2, 2 ]
+      startTime: 67.5
+      splitTime: 68
+      endTime: 70
+    }
+    {
+      element: acoustic
+      position: [ 2, 1 ]
+      startTime: 69.5
+      splitTime: 70.5
+      endTime: 72
+    }
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 72
+      splitTime: 72.5
+      endTime: 74
+    }
+
+
+
+    {
+      element: drum_kit
+      position: [ 1, 1 ]
+      startTime: 12.5
+      splitTime: 13.5
+      endTime: 14.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 14
+      splitTime: 14.5
+      endTime: 16
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 15.5
+      splitTime: 16.5
+      endTime: 17.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 0 ]
+      startTime: 17
+      splitTime: 17.5
+      endTime: 19
+    }
+    {
+      element: drum_kit
+      position: [ 1, 1 ]
+      startTime: 18.5
+      splitTime: 19.5
+      endTime: 20.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 20
+      splitTime: 20.5
+      endTime: 22
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 21.5
+      splitTime: 22.5
+      endTime: 23.5
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 23
+      splitTime: 23.5
+      endTime: 25
+    }
+    {
+      element: drum_kit
+      position: [ 1, 1 ]
+      startTime: 24.5
+      splitTime: 25.5
+      endTime: 26.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 26
+      splitTime: 26.5
+      endTime: 28
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 27.5
+      splitTime: 28.5
+      endTime: 29.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 0 ]
+      startTime: 29
+      splitTime: 29.5
+      endTime: 31
+    }
+    {
+      element: drum_kit
+      position: [ 1, 1 ]
+      startTime: 30.5
+      splitTime: 31.5
+      endTime: 32.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 32
+      splitTime: 32.5
+      endTime: 34
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 33.5
+      splitTime: 34.5
+      endTime: 35.5
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 35
+      splitTime: 35.5
+      endTime: 37
+    }
+
+
+
+    {
+      element: drum_kit
+      position: [ 2, 1 ]
+      startTime: 48.5
+      splitTime: 49.5
+      endTime: 50.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 50
+      splitTime: 50.5
+      endTime: 52
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 51.5
+      splitTime: 52.5
+      endTime: 53.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 0 ]
+      startTime: 53
+      splitTime: 53.5
+      endTime: 55
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 54.5
+      splitTime: 55.5
+      endTime: 56.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 56
+      splitTime: 56.5
+      endTime: 58
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 57.5
+      splitTime: 58.5
+      endTime: 59.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 2 ]
+      startTime: 59
+      splitTime: 59.5
+      endTime: 61
+    }
+    {
+      element: drum_kit
+      position: [ 1, 1 ]
+      startTime: 60.5
+      splitTime: 61.5
+      endTime: 62.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 62
+      splitTime: 62.5
+      endTime: 64
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 63.5
+      splitTime: 64.5
+      endTime: 65.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 0 ]
+      startTime: 65
+      splitTime: 65.5
+      endTime: 67
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 66.5
+      splitTime: 67.5
+      endTime: 68.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 68
+      splitTime: 68.5
+      endTime: 70
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 69.5
+      splitTime: 70.5
+      endTime: 71.5
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 71
+      splitTime: 71.5
+      endTime: 73
+    }
+    {
+      element: drum_kit
+      position: [ 3, 1 ]
+      startTime: 72.5
+      splitTime: 73.5
+      endTime: 74.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 74
+      splitTime: 74.5
+      endTime: 76
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 75.5
+      splitTime: 76.5
+      endTime: 77.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 0 ]
+      startTime: 77
+      splitTime: 77.5
+      endTime: 79
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 78.5
+      splitTime: 79.5
+      endTime: 80.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 2 ]
+      startTime: 80
+      splitTime: 80.5
+      endTime: 82
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 81.5
+      splitTime: 82.5
+      endTime: 83.5
+    }
+    {
+      element: drum_kit
+      position: [ 1, 2 ]
+      startTime: 83
+      splitTime: 83.5
+      endTime: 85
+    }
+
+
+    {
+      element: drum_kit
+      position: [ 1, 1 ]
+      startTime: 84.5
+      splitTime: 85.5
+      endTime: 86.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 86
+      splitTime: 86.5
+      endTime: 88
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 87.5
+      splitTime: 88.5
+      endTime: 89.5
+    }
+    {
+      element: drum_kit
+      position: [ 3, 0 ]
+      startTime: 89
+      splitTime: 89.5
+      endTime: 91
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 90.5
+      splitTime: 91.5
+      endTime: 92.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 92
+      splitTime: 92.5
+      endTime: 94
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 93.5
+      splitTime: 94.5
+      endTime: 95.5
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 95
+      splitTime: 95.5
+      endTime: 97
+    }
+
+
+    {
+      element: drum_kit
+      position: [ 3, 1 ]
+      startTime: 96.5
+      splitTime: 97.5
+      endTime: 98.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 98
+      splitTime: 98.5
+      endTime: 100
+    }
+    {
+      element: drum_kit
+      position: [ 3, 2 ]
+      startTime: 99.5
+      splitTime: 100.5
+      endTime: 101.5
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 101
+      splitTime: 101.5
+      endTime: 103
+    }
+    {
+      element: drum_kit
+      position: [ 1, 2 ]
+      startTime: 102.5
+      splitTime: 103.5
+      endTime: 104.5
+    }
+    {
+      element: drum_kit
+      position: [ 2, 0 ]
+      startTime: 104
+      splitTime: 104.5
+      endTime: 106
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 105.5
+      splitTime: 106.5
+      endTime: 107.5
+    }
+    {
+      element: drum_kit
+      position: [ 0, 1 ]
+      startTime: 107
+      splitTime: 107.5
+      endTime: 109
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  guitars: [
+    {
+      guitarName: solo12
+      guitarCost: 625
+      guitarScore: 2500
+    }
+    {
+      guitarName: solo22
+      guitarCost: 2250
+      guitarScore: 9000
+    }
+    {
+      guitarName: solo32
+      guitarCost: 5500
+      guitarScore: 22000
+    }
+    {
+      guitarName: solo42
+      guitarCost: 10000
+      guitarScore: 40000
+    }
+  ]
+}

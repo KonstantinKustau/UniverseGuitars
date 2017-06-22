@@ -1,0 +1,61 @@
+
+background3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+layer30
+  rotate: false
+  xy: 1, 563
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1
+layer31
+  rotate: false
+  xy: 1, 282
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1
+layer32
+  rotate: false
+  xy: 501, 563
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1
+layer33
+  rotate: false
+  xy: 1, 1
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1
+layer34
+  rotate: false
+  xy: 501, 282
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1
+layer35
+  rotate: false
+  xy: 1001, 563
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1
+layer36
+  rotate: false
+  xy: 501, 1
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1
+layer37
+  rotate: false
+  xy: 1001, 282
+  size: 498, 279
+  orig: 498, 279
+  offset: 0, 0
+  index: -1

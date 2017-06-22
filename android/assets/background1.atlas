@@ -1,0 +1,40 @@
+
+background1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+layer10
+  rotate: false
+  xy: 1, 567
+  size: 500, 281
+  orig: 500, 281
+  offset: 0, 0
+  index: -1
+layer11
+  rotate: false
+  xy: 1, 284
+  size: 500, 281
+  orig: 500, 281
+  offset: 0, 0
+  index: -1
+layer12
+  rotate: false
+  xy: 503, 567
+  size: 500, 281
+  orig: 500, 281
+  offset: 0, 0
+  index: -1
+layer13
+  rotate: false
+  xy: 1, 1
+  size: 500, 281
+  orig: 500, 281
+  offset: 0, 0
+  index: -1
+layer14
+  rotate: false
+  xy: 503, 284
+  size: 500, 281
+  orig: 500, 281
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+{
+  guitars: [
+    {
+      guitarName: acoustic12
+      guitarCost: 125
+      guitarScore: 500
+    }
+    {
+      guitarName: acoustic22
+      guitarCost: 1250
+      guitarScore: 5000
+    }
+    {
+      guitarName: acoustic32
+      guitarCost: 4000
+      guitarScore: 16000
+    }
+    {
+      guitarName: acoustic42
+      guitarCost: 7500
+      guitarScore: 30000
+    }
+  ]
+}

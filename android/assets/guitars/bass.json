@@ -1,0 +1,24 @@
+{
+  guitars: [
+    {
+      guitarName: bass12
+      guitarCost: 875
+      guitarScore: 3500
+    }
+    {
+      guitarName: bass22
+      guitarCost: 2750
+      guitarScore: 11000
+    }
+    {
+      guitarName: bass32
+      guitarCost: 6250
+      guitarScore: 25000
+    }
+    {
+      guitarName: bass42
+      guitarCost: 11250
+      guitarScore: 45000
+    }
+  ]
+}

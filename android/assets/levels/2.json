@@ -1,0 +1,142 @@
+{
+  background: background3.atlas
+  music: "Alternative Day.mp3"
+  goal: 1150
+  endTimeLevel: 10
+
+  store: {
+    mediator: 0
+    guitar_capo: 0
+    drum_pad: 0
+    cymbals: 0
+  }
+
+  elements: [
+    {
+      element: star
+      position: [ 2, 0]
+      startTime: 0
+      splitTime: 1
+      endTime: 10
+    }
+    {
+      element: drum_kit
+      position: [ 2, 1 ]
+      startTime: 0.5
+      splitTime: 1,
+      endTime: 2
+    }
+    {
+      element: acoustic
+      position: [ 1, 1 ]
+      startTime: 2
+      splitTime: 2.9,
+      endTime: 4
+    }
+    {
+      element: acoustic
+      position: [ 1, 2 ]
+      startTime: 4
+      splitTime: 4.9
+      endTime: 6
+    }
+    {
+      element: acoustic
+      position: [ 0, 1 ]
+      startTime: 6
+      splitTime: 6.9
+      endTime: 8
+    }
+    {
+      element: drum_kit
+      position: [ 2, 2 ]
+      startTime: 6.8
+      splitTime: 7.8
+      endTime: 9.3
+    }
+    {
+      element: rhythm
+      position: [ 3, 0 ]
+      startTime: 7.5
+      splitTime: 8.9
+      endTime: 9.9
+    }
+    {
+      element: acoustic
+      position: [ 1, 2 ]
+      startTime: 8
+      splitTime: 8.9
+      endTime: 10
+    }
+    {
+      element: solo
+      position: [ 0, 1 ]
+      startTime: 9
+      splitTime: 9.65
+      endTime: 10.6
+    }
+    {
+      element: acoustic
+      position: [ 0, 0 ]
+      startTime: 10
+      splitTime: 10.9
+      endTime: 12
+    }
+    {
+      element: solo
+      position: [ 2, 1 ]
+      startTime: 11
+      splitTime: 11.65
+      endTime: 12.6
+    }
+    {
+      element: acoustic
+      position: [ 2, 0 ]
+      startTime: 12
+      splitTime: 12.9
+      endTime: 14
+    }
+    {
+      element: solo
+      position: [ 1, 1 ]
+      startTime: 13
+      splitTime: 13.65
+      endTime: 14.6
+    }
+    {
+      element: acoustic
+      position: [ 3, 1 ]
+      startTime: 14
+      splitTime: 14.9
+      endTime: 16
+    }
+    {
+      element: solo
+      position: [ 2, 2 ]
+      startTime: 15
+      splitTime: 15.65
+      endTime: 16.6
+    }
+    {
+      element: drum_kit
+      position: [ 1, 0 ]
+      startTime: 14.8
+      splitTime: 15.8
+      endTime: 17.3
+    }
+    {
+      element: acoustic
+      position: [ 3, 2 ]
+      startTime: 16
+      splitTime: 16.9
+      endTime: 18
+    }
+    {
+      element: solo
+      position: [ 2, 2 ]
+      startTime: 17
+      splitTime: 17.65
+      endTime: 18.6
+    }
+  ]
+}
